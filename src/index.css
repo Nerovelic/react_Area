@@ -1,0 +1,15 @@
+html, body{
+    background-color: blanchedalmond;
+    color: black;
+    text-align: center;
+    /* font-size: 62.5%; */
+    font-size: 1.2rem;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 0.8rem;
+}
+
+button{
+    padding: 15px;
+    font-size: 1.3rem;
+    margin: 10px;
+}
